@@ -1,0 +1,47 @@
+body{
+    background-color: white;
+    margin: auto;
+}
+header {
+    background-color: lightgrey;
+    height: 120px;
+    width: 100%;
+}
+.box {
+    background-color: lightblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 10px 20px;
+}
+.white {
+    background-color: white;
+    height: 250px;
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    display: flex;
+    margin-top: 20px;
+}
+.blue {
+    background-color: lightblue;
+    height: 120px;
+    width: 100%;
+}
+.teal {
+    background-color: teal;
+    height: 120px;
+    width: 100%;
+}
+.green {
+    background-color: rgb(124, 199, 124);
+    height: 120px;
+    width: 100%;
+}
+footer {
+    background-color: yellow;
+    height: 120px;
+    width: 100%;
+}
